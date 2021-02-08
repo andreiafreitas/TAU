@@ -1,0 +1,14 @@
+{
+  "name": "mochajavascripttestframework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MochaHooks.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Andreia Freitas",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
