@@ -13,8 +13,6 @@ LinkedIn profile: https://www.linkedin.com/in/andgofreitas/
 
 ###### ###### 
 
-- Section for each folder(-title,folder,-what is it(what I am testing(API, site),text describing the library?what type of tests)
-  How to install and run the tests)
   
 #### API JavaScript Automation Testing
 Intro to JS - Remembering the JS basics with this course.
@@ -26,7 +24,10 @@ API testing strategy (Parameters, Output, Interop, ... )
 Where I learned What is Mocha and How to install
 Pre-bundled Function Calls - describe() and it()
 Mocha Hooks
-.Before / .after() / .beforeEach() / .afterEach()
+    - .Before 
+    - .after() 
+    - .beforeEach()
+    - .afterEach()
 Test Features - Inclusive, Exclusive and Pending
 Retry and Timeout functions
 Reporters - Spec and Dot Matrix 
@@ -38,7 +39,12 @@ Used for Unit Testing.
 I learned:
 What is an assertion and why is it required?
 How to install Chai from terminal or command line interface.
-Understand the difference about assertion styles provided by Chai, which are assert, expect, and should. Also should extras, and configurations.
+Understand the difference about assertion styles provided by Chai, which are 
+    - assert
+    - expect, and 
+    - should. 
+Also should extras, and configurations.
+
 In the end I learned how to add Chai to an existent project and how assertion can be handled centrally in a project.
 
 
