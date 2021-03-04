@@ -1,0 +1,31 @@
+{
+  "name": "cucumber-walkthrough",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio run wdio.conf.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.5.0",
+    "@babel/core": "^7.5.0",
+    "@babel/polyfill": "^7.4.4",
+    "@babel/preset-env": "^7.5.0",
+    "@babel/register": "^7.4.4",
+    "@wdio/cucumber-framework": "^5.23.0",
+    "@wdio/local-runner": "^5.23.0",
+    "@wdio/selenium-standalone-service": "^5.16.10",
+    "@wdio/spec-reporter": "^5.23.0",
+    "@wdio/sync": "^5.23.0",
+    "webdriverio": "^7.0.9"
+  },
+  "dependencies": {
+    "@wdio/cli": "^5.23.0",
+    "chromedriver": "^88.0.0",
+    "cucumber": "^5.1.0",
+    "webdriver": "^5.11.12"
+  }
+}
