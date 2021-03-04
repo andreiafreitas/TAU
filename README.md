@@ -48,6 +48,14 @@ Also should extras, and configurations.
 In the end I learned how to add Chai to an existent project and how assertion can be handled centrally in a project.
 
 
+### Cypress
+- Writing tests
+- Accessing elements and interacting with them
+- Validations
+- Grouping tests with Mocha
+- Cypress CLI
+- Page Objects in Cypress
+- Visual Validation
 
 
   
