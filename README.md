@@ -1,9 +1,9 @@
 # TAU
 
-TAU means Test Automation University where I am taking class's. 
+TAU means Test Automation University where I am taking classes. 
 I chose this learning path you can find on this repository is
 Web UI JavaScript / API JavaScript. 
-With this link you can check my profile: https://testautomationu.applitools.com/me.html#andreia-freitas
+With this link, you can check my profile: https://testautomationu.applitools.com/me.html#andreia-freitas
 
 
 ## About me
@@ -45,7 +45,7 @@ Understand the difference about assertion styles provided by Chai, which are
     - should. 
 Also should extras, and configurations.
 
-In the end I learned how to add Chai to an existent project and how assertion can be handled centrally in a project.
+In the end, I learned how to add Chai to an existent project and how assertion can be handled centrally in a project.
 
 
 ### Cypress
@@ -57,6 +57,4 @@ In the end I learned how to add Chai to an existent project and how assertion ca
 - Page Objects in Cypress
 - Visual Validation
 
-
-  
 
